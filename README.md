@@ -2,7 +2,7 @@
 ## Date: 18.09.2025
 
 ## AIM
-To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from a Car Company Database using Object Relational Mapping(ORM).
 
 
 ## DESIGN STEPS
@@ -54,4 +54,4 @@ class Car(models.Model):
 ![alt text](<Screenshot (6).png>)
 
 ## RESULT
-Thus the program for creating movies database using ORM hass been executed successfully
+Thus the program for creating Car database using ORM hass been executed successfully
